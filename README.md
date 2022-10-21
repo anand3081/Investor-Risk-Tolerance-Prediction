@@ -40,8 +40,6 @@ https://www.federalreserve.gov/econres/scfindex.htm
 - Risk-Free Assets include checking and savings balances, certificates of deposit, and other cash balances and equivalents
 - Using the data obtained in the Survey of Consumer Finances we can calculate the True Risk Tolerance and use that as the target predicted variable
 
-![Risk%20Tolerance%20Formula.png](attachment:Risk%20Tolerance%20Formula.png)
-
 ## Problem Statement  
 A Robo-Advisory firm hires a data scientist to create a machine learning model that is able to predict an investors risk tolerance from key feature attributes. Along with the investors stated willingness to take risk, a Robo Advisory prototype dashboard will also be created.
 
